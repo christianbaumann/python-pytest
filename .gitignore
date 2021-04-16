@@ -1,2 +1,4 @@
 /.idea/
 /python-pytest.iml
+
+tests/__pycache__/
