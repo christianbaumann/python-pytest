@@ -1,1 +1,1 @@
-python-pytest
+Excercise code from the [Introduction to pytest](https://testautomationu.applitools.com/pytest-tutorial/index.html) course on [TestAutomationU](https://testautomationu.applitools.com/)
