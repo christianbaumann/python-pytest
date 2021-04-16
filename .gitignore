@@ -2,3 +2,5 @@
 /python-pytest.iml
 
 tests/__pycache__/
+
+stuff/__pycache__/
