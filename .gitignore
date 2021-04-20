@@ -6,3 +6,9 @@ tests/__pycache__/
 stuff/__pycache__/
 
 report.xml
+
+assets/
+
+report.html
+
+.coverage
